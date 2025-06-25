@@ -47,8 +47,7 @@ I love learning new things and helping others learn.
 
 | Name | Role | Technology | Link |
 |------|------|------------|------|
-| **Online Omuz** | Lead Frontend Developer | React, RTK, Tailwind | [online.omuz.tj](https://online.omuz.tj) |
-| **Website for Soft Club** | Mentor | HTML, CSS, JS | *(Internal project)* |
+| **Online Omuz** | Mentor and Frontend Developer | React, RTK, Tailwind | [online.omuz.tj](https://online.omuz.tj) |
 | **Portfolio Website** | Creator | React, Tailwind | [Coming Soon]() |
 
 ---
