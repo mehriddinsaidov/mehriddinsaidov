@@ -54,8 +54,9 @@ I love learning new things and helping others learn.
 
 ### 📫 Contact Me:
 
-- 📬 Email: mehriddinsaidovl8@gamil.com  
 - 💬 Telegram: [@mehriddinsaidov](https://t.me/mehriddinsaidov)  
+- 💼 LinkedIn: [Mehriddin Saidov](https://www.linkedin.com/in/mehriddinsaidov)  
+- 📬 Email: mehriddinsaidovl8@gamil.com  
 - 🌐 Website (coming soon)
 
 ---
