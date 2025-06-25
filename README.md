@@ -1,5 +1,5 @@
 <h1 align="center">Салом, ман Mehriddin Saidov ҳастам 👋</h1>
-<h3 align="center">Frontend Developer | Mentor </h3>
+<h3 align="center">Mentor and Frontend Developer </h3>
 
 ---
 
