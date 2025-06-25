@@ -31,9 +31,9 @@ I love learning new things and helping others learn.
 
 
 #### ⚙️ State & Data
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
 ![RTK Query](https://img.shields.io/badge/-RTK--Query-593D88?logo=redux&logoColor=fff)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff)
 
 
 #### 🛠 Dev Tools
