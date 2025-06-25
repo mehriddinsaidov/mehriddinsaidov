@@ -10,6 +10,7 @@ I like making websites that are easy to use and fun to explore.
 Right now, I teach web development at [Online Omuz](https://online.omuz.tj) and Soft Club.  
 I work with tools like React, Tailwind CSS, and JavaScript.  
 I love learning new things and helping others learn.
+
 ---
 
 ### 🛠️ Technologies I Use and Learn:
