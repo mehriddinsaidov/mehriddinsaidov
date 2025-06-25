@@ -5,13 +5,11 @@
 
 ### 🙋‍♂️ About Me
 
-I'm a **Frontend Developer** and **Mentor** who lives with a passion for learning and technological growth.  
-My goal is to create modern and user-friendly interfaces using the latest technologies.
-
-- 🎓 Instructor of web courses at [Online Omuz](https://online.omuz.tj) and Soft Club  
-- 🛠 I work with React, Tailwind CSS, TypeScript, and many more  
-- 📚 I'm always trying to learn, understand, and help others understand
-
+Hi! I'm Mehriddin — a Frontend Developer and Mentor.  
+I like making websites that are easy to use and fun to explore.  
+Right now, I teach web development at [Online Omuz](https://online.omuz.tj) and Soft Club.  
+I work with tools like React, Tailwind CSS, and JavaScript.  
+I love learning new things and helping others learn.
 ---
 
 ### 🛠️ Technologies I Use and Learn:
