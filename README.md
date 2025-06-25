@@ -3,9 +3,9 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 
-Hi! I'm Mehriddin — a Frontend Developer and Mentor.  
+I'm Mehriddin — a Frontend Developer and Mentor.  
 I like making websites that are easy to use and fun to explore.  
 Right now, I teach web development at [Online Omuz](https://online.omuz.tj) and [Soft Club](https://www.softclub.tj).  
 I work with tools like React, Tailwind CSS, and JavaScript.  
