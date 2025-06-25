@@ -24,8 +24,11 @@ I love learning new things and helping others learn.
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs)
 
 #### 🎨 Styling
+![Ant Design](https://img.shields.io/badge/-Antd-0170FE?logo=ant-design&logoColor=white)
+![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=fff)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
+
 
 #### ⚙️ State & Data
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
