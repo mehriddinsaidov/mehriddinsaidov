@@ -26,6 +26,7 @@ I love learning new things and helping others learn.
 #### 🎨 Styling
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=fff)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
+![CSS](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
 
 #### ⚙️ State & Data
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
