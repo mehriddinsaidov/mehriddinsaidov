@@ -1,20 +1,20 @@
-<h1 align="center">Салом, ман Mehriddin Saidov ҳастам 👋</h1>
-<h3 align="center">Mentor and Frontend Developer </h3>
+<h1 align="center">Hello, I'm Mehriddin Saidov 👋</h1>
+<h3 align="center">Mentor and Frontend Developer</h3>
 
 ---
 
-### 🙋‍♂️ Дар бораи ман
+### 🙋‍♂️ About Me
 
-Ман як **Frontend Developer** ва **устод** ҳастам, ки бо муҳаббат ба омӯзиш ва рушди технологӣ зиндагӣ мекунам.  
-Ҳадафи ман — сохтани интерфейсҳои муосир ва истифода-пазир бо истифода аз технологияи навтарин мебошад.
+I'm a **Frontend Developer** and **Mentor** who lives with a passion for learning and technological growth.  
+My goal is to create modern and user-friendly interfaces using the latest technologies.
 
-- 🎓 Омӯзгори курсҳои веб дар [Online Omuz](https://online.omuz.tj) ва Soft Club  
-- 🛠 Кор мекунам бо React, Tailwind CSS, TypeScript, ва бисёр дигарҳо  
-- 📚 Ман ҳамеша мекӯшам омӯзам, фаҳмам ва ба дигарон фаҳмонам  
+- 🎓 Instructor of web courses at [Online Omuz](https://online.omuz.tj) and Soft Club  
+- 🛠 I work with React, Tailwind CSS, TypeScript, and many more  
+- 📚 I'm always trying to learn, understand, and help others understand
 
 ---
 
-### 🛠️ Технологияҳое, ки ман истифода мекунам ва меомӯзам:
+### 🛠️ Technologies I Use and Learn:
 
 #### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
@@ -44,22 +44,22 @@
 
 ---
 
-### 🔥 Лоиҳаҳои зикршуда
+### 🔥 Highlighted Projects
 
-| Ном | Нақш | Технология | Пайванд |
-|-----|------|------------|---------|
+| Name | Role | Technology | Link |
+|------|------|------------|------|
 | **Online Omuz** | Lead Frontend Developer | React, RTK, Tailwind | [online.omuz.tj](https://online.omuz.tj) |
-| **Сайт барои Soft Club** | Mentor | HTML, CSS, JS | *(Internal project)* |
+| **Website for Soft Club** | Mentor | HTML, CSS, JS | *(Internal project)* |
 | **Portfolio Website** | Creator | React, Tailwind | [Coming Soon]() |
 
 ---
 
-### 📫 Барои тамос:
+### 📫 Contact Me:
 
 - 📬 Email: mehriddin.saidov@example.com  
 - 💬 Telegram: [@mehriddin_saidov](https://t.me/mehriddin_saidov)  
-- 🌐 Website (ба зудӣ)
+- 🌐 Website (coming soon)
 
 ---
 
-<p align="center">🙏 Ташаккур барои боздид! Агар лоиҳаҳои маро писанд кардед — ⭐ диҳед!</p>
+<p align="center">🙏 Thank you for visiting! If you liked my projects — feel free to give a ⭐!</p>
