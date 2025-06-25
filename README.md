@@ -1,5 +1,5 @@
 <h1 align="center">Салом, ман Mehriddin Saidov ҳастам 👋</h1>
-<h3 align="center">Frontend Developer | Mentor | Lifelong Learner from Tajikistan</h3>
+<h3 align="center">Frontend Developer | Mentor </h3>
 
 ---
 
@@ -11,7 +11,6 @@
 - 🎓 Омӯзгори курсҳои веб дар [Online Omuz](https://online.omuz.tj) ва Soft Club  
 - 🛠 Кор мекунам бо React, Tailwind CSS, TypeScript, ва бисёр дигарҳо  
 - 📚 Ман ҳамеша мекӯшам омӯзам, фаҳмам ва ба дигарон фаҳмонам  
-- ⚽ Дар вақти холӣ футболбоз ва дӯстдори худомӯзӣ
 
 ---
 
@@ -52,15 +51,6 @@
 | **Online Omuz** | Lead Frontend Developer | React, RTK, Tailwind | [online.omuz.tj](https://online.omuz.tj) |
 | **Сайт барои Soft Club** | Mentor | HTML, CSS, JS | *(Internal project)* |
 | **Portfolio Website** | Creator | React, Tailwind | [Coming Soon]() |
-
----
-
-### 📊 Статистикаи GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehriddin-dev&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehriddin-dev&theme=radical" width="49%" />
-</p>
 
 ---
 
