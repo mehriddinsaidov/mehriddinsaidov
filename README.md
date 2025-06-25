@@ -35,9 +35,6 @@ I love learning new things and helping others learn.
 ![RTK Query](https://img.shields.io/badge/-RTK--Query-593D88?logo=redux&logoColor=fff)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff)
 
-#### 🧪 Testing
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff)
-![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=fff)
 
 #### 🛠 Dev Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
