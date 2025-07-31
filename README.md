@@ -48,7 +48,7 @@
 | Name | Role | Technology | Link |
 |------|------|------------|------|
 | **Online Omuz** | Mentor and Frontend Developer | React, RTK, Tailwind | [online.omuz.tj](https://online.omuz.tj) |
-| **Portfolio Website** | Creator | React, Tailwind | [Coming Soon]() |
+| **Portfolio Website** | Creator | Next JS, Tailwind | [Coming Soon]() |
 
 ---
 
